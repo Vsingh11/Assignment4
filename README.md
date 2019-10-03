@@ -23,6 +23,7 @@ This website contains information on 3 students, 2 of which are pursuing two maj
 
 ## Taxonomy
 
+- Student Name
 - Major(s)
 - Hometown
 - School Life
