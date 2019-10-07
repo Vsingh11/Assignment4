@@ -1,3 +1,22 @@
-<style>
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Lobster|Mansalva|Maven+Pro&display=swap');
 
-</style>
+/*****************BASE******************************/
+.container{
+	margin: auto;
+	width:90%;
+	display:grid;
+	display-template-columns: 25% 50% 25%;
+	display-template-rows:20% 60% 20%;
+}
+
+body{
+	font-family: 'Mansalva', cursive;
+}
+
+
+/********************LAYOUT**************************/
+
+
+
+
+/*****************MODULES**********************/
