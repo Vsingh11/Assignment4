@@ -13,6 +13,8 @@ body{
 	font-family: 'Maven Pro', sans-serif;
 }
 
+*{border: 1px solid hotpink;}
+
 /*figure{
 	width:50px;
 	height:70px;
