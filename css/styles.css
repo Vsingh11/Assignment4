@@ -21,7 +21,7 @@ body{
 	font-family: 'Maven Pro', sans-serif;
 }
 
-*{border: 1px solid hotpink;}
+/**{border: 1px solid hotpink;}*/
 
 h1{
 	font-family: 'Notable', sans-serif;
@@ -41,7 +41,7 @@ header section{
 
 #home-header{
 	display:flex;
-	flex-direction: column;
+	flex-direction: ;
 }
 
 
@@ -52,9 +52,10 @@ header section{
 }*/
 
 
-nav{
-	grid-column: 2/span 3;
-	}
+#home-nav{
+	grid-column: 2/span;
+	grid-column-end:4;
+}
 
 
 /********************LAYOUT**************************/
