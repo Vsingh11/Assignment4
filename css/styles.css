@@ -47,12 +47,20 @@ header section{
 
 #home-nav{
 	position:relative;
-	left: 300px;
-	top:50px;
+	/*left: 10px;*/
+	top:25px;
 	border: 5px solid grey;
 	width: 400px;
 	height:200px;
 	text-align:center;
+	background-color: #EBECF0;
+
+}
+
+#home-nav a{
+	position:relative;
+	top:90px;
+	font-family: 'Leckerli One', sans-serif;
 
 }
 
@@ -73,7 +81,8 @@ header section{
 
 	display:flex;
 	flex-direction: row;
-}
+	justify-content: space-between;
+/*}
 #fig2{
 	grid-column-start:2;
 	grid-column-end:3;
@@ -83,7 +92,7 @@ header section{
 #fig3{
 	grid-column-start:3;
 	grid-row-start:3;
-}
+}*/
 
 /*button{
 	grid-column: 3/3;
