@@ -15,9 +15,6 @@
 </header>
 
 
-<nav><a href="index.php">Back to Home</a></nav>
-
-
 <section>
 
 	<h2>Alex Chase - Dual Major</h2>
@@ -92,6 +89,8 @@
 
 </section>
 
+
+<nav><a href="index.php">Back to Home</a></nav>
 
 </body>
 
