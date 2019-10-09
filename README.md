@@ -36,4 +36,4 @@ The content is presented alphabetically by student's first name, with the two du
 
 
 # Designer Section
-I used my own version of SMACCs that mainly used the base for selecting and styling and layout for positioning on the page. I used the Z pattern for the homepage and the F pattern for the doublemajors page.
+I used my own version of SMACCs that mainly used the base for selecting and styling and layout for positioning on the page. I also had a modules section initially but ended up not using it. I used the Z pattern for the homepage and the F pattern for the doublemajors page.
