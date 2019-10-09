@@ -32,3 +32,8 @@ This website contains information on 3 students, 2 of which are pursuing two maj
 ## Choreography
 
 The content is presented alphabetically by student's first name, with the two dual majors listed before the single major student. 
+
+
+
+# Designer Section
+I used my own version of SMACCs that mainly used the base for selecting and styling and layout for positioning on the page. I used the Z pattern for the homepage and the F pattern for the doublemajors page.

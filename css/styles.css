@@ -1,21 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Italianno|Leckerli+One|Notable|Crimson+Text|Lobster|Mansalva|Maven+Pro&display=swap');
 
 /*****************BASE******************************/
-.container{
-	margin: auto;
-	width:90%;
-	display:grid;
-	display-template-columns: 25% 25% 25% 25%;
-	display-template-rows:20% 60% 20%;
-}
-
-.home-container{
-	margin: auto;
-	width:90%;
-	display:grid;
-	display-template-columns:30% 30% 40%;
-	display-template-rows:50% 25% 25%;
-}
 
 body{
 	font-family: 'Maven Pro', sans-serif;
@@ -29,15 +14,14 @@ h1{
 }
 
 
-header{
-	display:flex;
-	flex-direction: column;
-
+#vanessa h3{
+	font-family: 'Leckerli One', cursive;
 }
 
-header section{
-	justify-content: flex-end;
+#vanessa p{
+	font-family: 'Crimson', cursive;
 }
+
 
 #home-header{
 	display:flex;
@@ -69,6 +53,23 @@ header section{
 
 /********************LAYOUT**************************/
 
+.container{
+	margin: auto;
+	width:90%;
+	display:grid;
+	display-template-columns: 25% 25% 25% 25%;
+	display-template-rows:20% 60% 20%;
+}
+
+.home-container{
+	margin: auto;
+	width:90%;
+	display:grid;
+	display-template-columns:30% 30% 40%;
+	display-template-rows:50% 25% 25%;
+}
+
+
 #majors{
 	display-row-start:2;
 	grid-column: 1/2;
@@ -83,21 +84,7 @@ header section{
 	flex-direction: row;
 	justify-content: space-between;
 }
-/*
-#fig2{
-	grid-column-start:2;
-	grid-column-end:3;
-	grid-row-start:3;
 
-}
-#fig3{
-	grid-column-start:3;
-	grid-row-start:3;
-}*/
-
-/*button{
-	grid-column: 3/3;
-}*/
 
 .square{
 	border: 5px solid #EBECF0;
@@ -112,9 +99,15 @@ header section{
 }
 
 
+header{
+	display:flex;
+	flex-direction: column;
 
+}
 
-
+header section{
+	justify-content: flex-end;
+}
 
 section {
 	display:inline-grid;
@@ -138,14 +131,6 @@ section h3{
 section figure{
 	grid-column-start: 3;
 	grid-row-start:2;
-}
-
-#vanessa h3{
-	font-family: 'Leckerli One', cursive;
-}
-
-#vanessa p{
-	font-family: 'Crimson', cursive;
 }
 
 
