@@ -10,7 +10,7 @@
    <body class = "home-container">
       <header id = "home-header">
          <h1><a href="index.php">Odd Student Out</a></h1>
-         <h2 class="strong-follow">Team Barcelona</h2>
+         <h2 class="strong-follow fontblack">Team Barcelona</h2>
          <section class="container">
             <div class="fullBackground"></div>
          </section>

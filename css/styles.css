@@ -16,7 +16,7 @@
 
 }
 
-/**{ border: 1px solid hotpink; }*/
+*{ border: 1px solid hotpink; }
 
 body{
 	
@@ -157,8 +157,12 @@ body {
 	}
 
 	.strong-follow{
-		display:inline-grid;
-		grid-column-start: 2;
+		position:relative;
+		left:80%;
+		bottom:30%;
+		font-weight: bold;
+		font-family: 'Leckerli One', sans-serif;
+
 	}
 
 
