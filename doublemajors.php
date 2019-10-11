@@ -7,7 +7,7 @@
    </head>
    <body class="container">
       <header>
-         <h1 class="fontblack">Odd Student Out</h1>
+         <h1 class="fontblack"><a href="index.php">Odd Student Out</a></h1>
       </header>
       <nav><a href="index.php">Back to Home</a></nav>
       <section>
@@ -37,6 +37,7 @@
          <figure>
             <img src="images/jialin.jpg" alt="Jialin" class="square">
          </figure>
+
       </section>
       <section id = "vanessa">
          <h2 class="fontblack">Vanessa Acevedo - Not a Dual Major</h2>
