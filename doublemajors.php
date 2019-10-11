@@ -20,11 +20,11 @@
          <p>One night as I was fighting for my life with one of my wolf pack brethren during what started out as a friendly competition over scraps of rancid meat, I thought, “There has to be a better way”. And thus, I left the cave at the ripe age of 14 to pursue a higher education (I was able to jump right into high school; turns out being raised by wolves actually counts as substantial gen-ed credit).</p>
          <h3>Interests, Skills & Accomplishments</h3>
          <p>I graduated high school with honors and my graphic design experience, along with my love of writing and filming sketch comedy, and acting in plays came in handy during two internships I've engaged in.</p>
-         <figure id = "alex" >
+         <figure class = "alex" >
             <img src="images/alex.jpg" alt="Alex" class="square">
          </figure>
       </section>
-      <section id = "jialin">
+      <section class = "jialin">
          <h2 class="fontblack">Jialin Huo - Dual Major</h2>
          <h3 class="majors">Majors</h3>
          <p>I am a fifth-year student double majoring in Business Finance and Art History at the University of Rochester, </p>
@@ -39,7 +39,7 @@
          </figure>
 
       </section>
-      <section id = "vanessa">
+      <section class = "vanessa">
          <h2 class="fontblack">Vanessa Acevedo - Not a Dual Major</h2>
          <h3>Major</h3>
          <p>I am a sophomore pursing a Bachelor’s degree in Language, Media, and Communications (or English, in simpler terms) at the University of Rochester .</p>

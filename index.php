@@ -8,7 +8,7 @@
       <script src="js/fullclip.js"></script>
    </head>
    <body class = "home-container">
-      <header id = "home-header">
+      <header class = "home-header">
          <h1><a href="index.php">Odd Student Out</a></h1>
          <h2 class="strong-follow fontblack">Team Barcelona</h2>
          <section class="container">
@@ -28,11 +28,11 @@
       <figure id="majors">
          <img src="images/major.png" alt="Majors">
       </figure>
-      <figure id = "fig1">
+      <figure class = "fig1">
          <img src="images/alex.jpg" alt="Alex" class="square">
          <img src="images/jialin.jpg" alt="Jialin" class="square">
          <img src="images/vanessa.jpg" alt="Vanessa" class="circle">
-         <nav id="home-nav"><a href="doublemajors.php"> >>>>Check them out!<<<< </a></nav>
+         <nav class="home-nav"><a href="doublemajors.php"> >>>>Check them out!<<<< </a></nav>
       </figure>
    </body>
 </html>
