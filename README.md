@@ -32,3 +32,8 @@ This website contains information on 3 students, 2 of which are pursuing two maj
 ## Choreography
 
 The content is presented alphabetically by student's first name, with the two dual majors listed before the single major student. 
+
+
+## DESIGNER SECTION
+
+I used a personal version of SMACCS discussed in class.
